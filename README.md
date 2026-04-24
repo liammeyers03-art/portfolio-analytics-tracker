@@ -13,6 +13,9 @@ Built a portfolio analytics system to evaluate performance, risk, and allocation
 - Excel  
 
 ### Example Output
+
 ![Portfolio Summary](portfolio_summary.png)
+
+<br>
 
 ![Performance vs SPY](performance_vs_spy.png)
