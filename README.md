@@ -54,9 +54,15 @@ It integrates with the companion Equity Research Engine, allowing research portf
 - Microsoft Excel
 <br>
 
-##
+## Portfolio Summary
 ![Portfolio Summary](portfolio_summary.png)
 
 <br>
 
-![Performance vs SPY](performance_vs_spy.png)
+## Risk Analytics 
+![Risk Analytics](risk_return_analytics.png)
+
+<br>
+
+## Portfolio Management System 
+![Portfolio Management](portfolio_management.png)
