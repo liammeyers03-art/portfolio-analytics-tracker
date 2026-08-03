@@ -11,7 +11,7 @@ It integrates with the companion Equity Research Engine, allowing research portf
 
 ### 1. Portfolio Import
 - Transaction History
-- Price Downloads
+- Market Data Collection
 - Portfolio History
 
 ### 2. Performance Analytics
@@ -39,10 +39,10 @@ It integrates with the companion Equity Research Engine, allowing research portf
 - Relative performance
 - Alpha/Beta analysis
 
-### 6. Reporting
-- Dashboard generation
-- Portfolio history
-- Performance summaries
+### 6. Portfolio Management
+- Portfolio management summaries
+- Risk monitoring
+- Buy/Hold/Review/De-Risk recommendations
 
  ## Tech Stack
 - Python
@@ -52,6 +52,7 @@ It integrates with the companion Equity Research Engine, allowing research portf
 - SciPy 
 - matplotlib
 - Microsoft Excel
+
 <br>
 
 ## Portfolio Summary
