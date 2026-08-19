@@ -67,6 +67,12 @@ It integrates with the companion Equity Research Engine, allowing research portf
 
 <br>
 
+## Portfolio Dashboard 
+
+![Portfolio Dashboard](portfolio_dashboard.png)
+
+<br>
+
 ## Portfolio Summary
 ![Portfolio Summary](portfolio_summary.png)
 
