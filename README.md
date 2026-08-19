@@ -50,6 +50,12 @@ It integrates with the companion Equity Research Engine, allowing research portf
 - Evaluate risk and allocation
 - Benchmark against SPY
 
+### 8. Excel Investment Dashboard
+- Dynamic portfolio selection and automated data refresh
+- Performance, risk, and portfolio allocation KPIs
+- Portfolio performance and S&P 500 benchmarking
+- Sector allocation, asset allocation, and top holdings visualizations
+
  ## Tech Stack
 - Python
 - Pandas
